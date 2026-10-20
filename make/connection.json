@@ -1,0 +1,4 @@
+[
+  {"name":"baseUrl","type":"url","label":"Voxira tenant URL","required":true},
+  {"name":"apiKey","type":"password","label":"Voxira API key","required":true}
+]

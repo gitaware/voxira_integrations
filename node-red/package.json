@@ -1,0 +1,1 @@
+{"name":"node-red-contrib-voxira","version":"1.0.0","private":true,"engines":{"node":">=18"},"node-red":{"nodes":{"voxira":"voxira.js"}},"scripts":{"test":"node --test test.cjs"}}
